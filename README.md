@@ -8,7 +8,9 @@ Crear un entorno Virtualizado, para instalar las librerias
 
 ##### Paso 1
 Creamos el entorno de Virtualizacion
-> python -m virtualenv venv
+´´´python
+python -m virtualenv venv
+´´´
 
 ##### Paso 2
 Activamos el entorno de Virtualizacion
